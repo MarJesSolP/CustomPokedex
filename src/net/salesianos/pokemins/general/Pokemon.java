@@ -1,4 +1,4 @@
-package net.salesianos.general;
+package net.salesianos.pokemins.general;
 
 public class Pokemon {
     protected String name;

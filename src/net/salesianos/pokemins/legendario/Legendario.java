@@ -1,6 +1,6 @@
-package net.salesianos.legendario;
+package net.salesianos.pokemins.legendario;
 
-import net.salesianos.general.Pokemon;
+import net.salesianos.pokemins.general.Pokemon;
 
 public class Legendario extends Pokemon {
     private String location;
