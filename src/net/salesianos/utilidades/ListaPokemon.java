@@ -4,7 +4,7 @@ import net.salesianos.pokemins.general.Pokemon;
 
 public class ListaPokemon {
     private int sizeList = 0;
-    private Pokemon pokeminsList[] = new Pokemon[1];
+    public Pokemon pokeminsList[] = new Pokemon[1];
 
 
     public ListaPokemon() {

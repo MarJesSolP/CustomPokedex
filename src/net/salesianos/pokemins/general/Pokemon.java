@@ -55,8 +55,8 @@ public class Pokemon {
         this.description = description;
     }
 
-    public void setCaptured(boolean captured) {
-        this.captured = captured;
+    public void captured() {
+        this.captured = true;
     }
 
     @Override
